@@ -5,7 +5,7 @@ import speech_recognition as sr
 import pyttsx3
 
 # Load OpenAI API key from environment variables
-openai.api_key = "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"
+openai.api_key = openai_key
 
 # Initialize the TTS engineexit
 
